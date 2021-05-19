@@ -22,4 +22,4 @@ To run it in Linux + Octave, you can call the script form GitHub:
 
 ## Output
 
-![image](https://user-images.githubusercontent.com/53089531/118809472-96413280-b8a2-11eb-8e4b-37fd196105ed.png)
+![image](https://user-images.githubusercontent.com/53089531/118809795-fcc65080-b8a2-11eb-84e0-94689c143eb9.png)
