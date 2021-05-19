@@ -12,5 +12,4 @@ Just run the script and paste a list of numbers: e.g. ```ocatve /path/to/script/
 
 ## Output
 
-![image](https://user-images.githubusercontent.com/53089531/118805973-6ee86680-b89e-11eb-8a6c-9263f3fda98f.png)
-
+![image](https://user-images.githubusercontent.com/53089531/118807811-ab1cc680-b8a0-11eb-98b4-3e09fbe9b25c.png)
