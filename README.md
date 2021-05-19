@@ -15,7 +15,7 @@ To run it in Matlab:
 
 ```matlab /path/to/script/histogram_simple.m```
 
-To run it in Linux + Octave just run:
+To run it in Linux + Octave, you can call the script form GitHub:
 
 ```wget -O - https://raw.githubusercontent.com/angelrodes/histogram_simple/main/histogram_simple.m | octave```
 
