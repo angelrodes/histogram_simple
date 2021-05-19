@@ -69,7 +69,7 @@ names=names(sel);
 %% calculate
 
 % number of bars to plot
-nbars=min(100,max(10,length(ages)*20/50));
+nbars=min(100,max(10,length(ages)*0.1));
 
 % average
 n_data=length(ages);
