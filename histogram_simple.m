@@ -1,3 +1,6 @@
+%% Histogram simple
+%% Ángel Rodés, 2021
+
 clear
 close all hidden
 clc
