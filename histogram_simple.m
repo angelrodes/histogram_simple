@@ -118,6 +118,7 @@ xlabel(['Mean = ' num2str(mean_data) '+/-' num2str(std_data) ' ; SDOM = '  num2s
 
 xlim([min(xout-mean(diff(xout))) max(xout+mean(diff(xout)))])
 set(gca, 'FontName', 'Hack')
+box on
 
 closequestion="No";
 while strcmp(closequestion, "No")
